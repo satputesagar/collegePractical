@@ -17,8 +17,8 @@
 	}
 
 	$obj1 = new CopyConstructor();
-	$obj1->name = 'umar';
-	$obj1->food_type = 'biryani';
+	$obj1->name = 'RCC';
+	$obj1->food_type = 'Saoner';
 	$obj1->show();
 
 	// $obj2 = $obj1; //both hold the same reference, so if we change in obj2 then it reflect also obj1. so this method is not good.
